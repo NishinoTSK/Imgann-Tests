@@ -1,0 +1,112 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "1",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://app.roboflow.ai/datasets/coco-kcm2k/1",
+        "date_created": "2021-06-28T15:47:51+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "",
+            "name": "Unknown"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "ninguem",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "72",
+            "supercategory": "ninguem"
+        },
+        {
+            "id": 2,
+            "name": "93",
+            "supercategory": "ninguem"
+        },
+        {
+            "id": 3,
+            "name": "141",
+            "supercategory": "ninguem"
+        },
+        {
+            "id": 4,
+            "name": "21-14",
+            "supercategory": "ninguem"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "IMG_5806_png_jpg.rf.02dfd983f2367ae5a6c8f1a9ba8b0e0b.jpg",
+            "height": 2011,
+            "width": 1621,
+            "date_captured": "2021-06-28T15:47:51+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 4,
+            "bbox": [
+                855,
+                787,
+                585,
+                520
+            ],
+            "area": 304200,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 0,
+            "category_id": 3,
+            "bbox": [
+                1001,
+                1276,
+                529,
+                507
+            ],
+            "area": 268203,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 0,
+            "category_id": 2,
+            "bbox": [
+                531,
+                167,
+                679,
+                270
+            ],
+            "area": 183330,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                651,
+                376,
+                739,
+                444
+            ],
+            "area": 328116,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
